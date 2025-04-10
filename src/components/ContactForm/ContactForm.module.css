@@ -1,0 +1,13 @@
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.formBtnSubmit{
+    width: 150px;
+    background-color: #03716d;
+    box-shadow: #033d3b;
+}

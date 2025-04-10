@@ -1,0 +1,14 @@
+.contactBox {
+  display: flex;
+  list-style: none;
+  border: 1px solid rgb(118, 131, 163);
+  border-radius: 8px;
+  width: 300px;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.deleteBtn {
+  max-height: 40px;
+  background-color: rgb(182, 110, 43);
+}
